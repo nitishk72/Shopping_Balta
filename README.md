@@ -9,5 +9,7 @@ O projeto consiste:
   - Formulário com validação
   - Navegação entre as telas de maneira simples
   - Animações
+  - Icone para o App
+
 
 
